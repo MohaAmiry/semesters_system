@@ -1,16 +1,11 @@
-# semester_system
+# What is This Project?
+This project demostrate the workflow of general academic systems: semesters, lecturers, courses, grading feature. it uses flutter with riverpod 2.0 and firebase and clear architecture in a feature driven design.
 
-A new Flutter project.
+# Targeted Audience, Why to discover this project?
+The targeted audience is 
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Used Technologies
