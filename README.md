@@ -5,7 +5,15 @@ This project demostrate the workflow of general academic systems: semesters, lec
 The targeted audience is 
 
 # Features
+    1- Semesters Management.
+    2- Multi-Users Levels (admin, lecturer, student).
+    3- Courses Management with fine time control.
+    4- Student courses grading system.
+    5- failing and sucessing courses.
 
 
-
-# Used Technologies
+# Used Technologies and Technical Specifics
+    1- Flutter as the framework used in the application development.
+    2- Firebase as a cloud database.
+    3- Riverpod 2.0 for statemanagement.
+    4- Clean Architecture with a feature driven design.
